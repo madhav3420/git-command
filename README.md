@@ -1,12 +1,12 @@
 # git-command
 1)Configuring Git
-<h3>
+
 git config --global user.name "Username"
 
 git config --global user.email "email@123"
 
 git config --list
- </h3>
+ 
 
 2) Clone and Status
    
