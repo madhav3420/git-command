@@ -22,3 +22,7 @@ git add <file name>    or   git add.
 
 commit- it is the record of change
 git commit -m "some message"
+
+4)Push Command
+push- upload locla repo content to remote repo
+git push origin main
