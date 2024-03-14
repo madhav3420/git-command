@@ -7,6 +7,7 @@ git config --global user.email "email@123"
 
 git config --list
 
+
 2) Clone and Status
    
 clone- cloning a repo on local machine
